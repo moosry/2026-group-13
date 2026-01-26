@@ -25,7 +25,7 @@ VIDEO. Include a demo video of your game here (you don't have to wait until the 
 
 ## Your Group
 
-GROUP PHOTO. Add a group photo here.
+![GROUP PHOTO](docs/DevLog/Week01/img/Group_Picture01.jpg)
 
 - Group member 1, name, email, role
 - Group member 2, name, email, role
@@ -33,6 +33,12 @@ GROUP PHOTO. Add a group photo here.
 - Group member 4, name, email, role
 - Group member 5, name, email, role
 - Group member 6, name, email, role
+Zhiqing Zhang, ek25873@bristol.ac.uk, moosry  
+Siqi Xu, lv25773@bristol.ac.uk, LSironman789  
+Xuelin Ma, pw25500@bristol.ac.uk, Xuelin-Xueli  
+Yiyuan Yao, jg25755@bristol.ac.uk, Yyyjava  
+Jingran Zhang, sx25997@bristol.ac.uk, Rannto11  
+Wenlei Miao, hz25681@bristol.ac.uk, dhebhxh
 
 ## Project Report
 

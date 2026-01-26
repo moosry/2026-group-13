@@ -25,7 +25,7 @@ VIDEO. Include a demo video of your game here (you don't have to wait until the 
 
 ## Your Group
 
-![GROUP PHOTO](docs/DevLog/Week01/img/Group_Picture01.jpg)
+![GROUP PHOTO](https://raw.githubusercontent.com/moosry/2026-group-13/refs/heads/main/docs/DevLog/Week01/img/Group_Picture01.jpg)
 
 - Group member 1, name, email, role
 - Group member 2, name, email, role
